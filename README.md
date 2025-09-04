@@ -26,5 +26,6 @@ Enable data-driven marketing strategies.
 
  # Dashboard Preview📸
 
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/cd693541-6b60-481b-b37e-632537c1b0cc" />
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/066f9fa7-70e7-4059-a780-cf0d58eaea56" />
+
 
