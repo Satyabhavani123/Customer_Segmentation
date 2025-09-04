@@ -1,14 +1,14 @@
 # Customer Segmentation using RFM & Clustering
-📌 Project Overview
+📌 #Project Overview
 This project focuses on segmenting retail customers based on their purchasing behavior using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering.
 The results are visualized in an interactive Power BI dashboard to derive business insights and support targeted marketing strategies.
 
-⚙️ Tech Stack
+⚙️ #Tech Stack
 Python: Pandas, Scikit-learn, Matplotlib/Seaborn
 Power BI: Interactive dashboard and visualizations
 Tools: Jupyter Notebook, Power BI Desktop
 
-🔑 Key Features
+🔑 #Key Features
 RFM analysis to measure customer behavior.
 K-Means clustering to group customers (High Value, Frequent Buyers, Lost Customers, etc.).
 Exported and visualized results in Power BI.
@@ -19,7 +19,7 @@ RFM by Cluster (Bar Chart)
 Customer Spending (Table)
 Interactive slicers for exploring clusters and customer patterns.
 
-📊 Business Impact
+📊 #Business Impact
 Identify high-value customers for loyalty programs.
 Recognize churned/lost customers for re-engagement.
 Enable data-driven marketing strategies.
